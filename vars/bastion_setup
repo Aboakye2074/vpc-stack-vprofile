@@ -1,0 +1,5 @@
+bastion_ami: ami-05fb0b8c1424f266b # ubuntu 20.04 ami from us-east-2 region
+region: us-east-2
+MYIP: 96.255.94.164/32
+keyName: vprofile-key
+instanceType: t2.micro
